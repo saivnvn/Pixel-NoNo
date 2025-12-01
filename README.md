@@ -1,4 +1,4 @@
-# 🦖 Pixel NoNo – No True Try – No Pixel Art
+# 🦖 Pixel NoNo: No True Try – No Pixel Art
 ### Create Cute Pixel Art • Simple • Fun • 24×24 Canvas
 
 ![App Logo](logo.jpg)
