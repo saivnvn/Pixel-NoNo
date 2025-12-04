@@ -1,7 +1,7 @@
 # 🦖 Pixel NoNo: No True Try – No Pixel Art
 ### Create Cute Pixel Art • Simple • Fun • 24×24 Canvas
 
-![App Logo](logo.jpg)
+![App Logo](logov7.png)
 
 ## 🎨 About the App
 **Pixel NoNo – Pixel Art Maker** is a delightful and easy-to-use pixel drawing app designed for everyone — from beginners to pixel art enthusiasts.  
@@ -21,7 +21,7 @@ Choose from **30 professional pixel colors**, draw freely, and bring your ideas 
 
 | | | |
 |---|---|---|
-| ![](anh1.png) | ![](anh2.png) | ![](anh3.png) |
+| ![](anh4.png) | ![](anh5.png) | ![](anh6.png) |
 
 ---
 
