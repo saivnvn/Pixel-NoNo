@@ -1,5 +1,5 @@
-# 🦖 Pixel NoNo: No True Try – No Pixel Art
-### Create Cute Pixel Art • Simple • Fun • 24×24 Canvas
+# 🦖 Pixel NoNo: No True Try – No Pixel Art - 67 Pixel Art Maker
+### Create Cute Pixel Art • Simple • Fun • Six Seven – 67 Pixel Art Style
 
 ![App Logo](logov73.png)
 
